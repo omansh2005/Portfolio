@@ -5,13 +5,13 @@ import './Certificates.css';
 // ── Real certificate images from assets ───────────────────────────────────────
 import imgIEI        from '../assets/iei membership.jfif';
 import imgACI        from '../assets/aci memebrshp.jfif';
+import imgASCE       from '../assets/asce membership.jfif';
 import imgSTAAD      from '../assets/staad pro.jfif';
 import imgTechFest1  from '../assets/1st rank in tech fest.jfif';
 import imgPicPanic   from '../assets/1st rank in picture panic.jfif';
 import imgBeatWork   from '../assets/1st rank beat the work.jfif';
 import imgCADMania   from '../assets/2nd rank in cad maina.jfif';
 import imgAutoCAD2nd from '../assets/2nd rank in atocad speed test.jfif';
-import imgASCE       from '../assets/asce membership.jfif';
 import imgGantavya   from '../assets/gantavya.jfif';
 import imgGoogleAds  from '../assets/CERTIFICATE_LANDING_PAGE~D4ZL4CHW9YYX.jpeg';
 import imgExcel      from '../assets/m ecxel.jpeg';
