@@ -48,6 +48,19 @@ const certificates = [
     image: imgACI,
     color: '#f59e0b',
   },
+  {id: 9,
+    title: 'Student Membership – ASCE',
+    issuer: 'American Society of Civil Engineers',
+    date: '2025',
+    expiry: null,
+    category: 'Membership',
+    credentialId: null,
+    verifyLink: null,
+    description:
+      'Elected student member of the American Society of Civil Engineers (ASCE), the world\'s oldest national engineering society.',
+    image: imgASCE,
+    color: '#3b82f6',
+  },
   {
     id: 3,
     title: 'STAAD.Pro Internship Certificate',
@@ -132,21 +145,7 @@ const certificates = [
     image: imgAutoCAD2nd,
     color: '#a855f7',
   },
-  {
-    id: 9,
-    title: 'Student Membership – ASCE',
-    issuer: 'American Society of Civil Engineers',
-    date: '2025',
-    expiry: null,
-    category: 'Membership',
-    credentialId: null,
-    verifyLink: null,
-    description:
-      'Elected student member of the American Society of Civil Engineers (ASCE), the world\'s oldest national engineering society.',
-    image: imgASCE,
-    color: '#3b82f6',
-  },
-  {
+    {
     id: 10,
     title: 'Gantavya\'21 – 1st Prize, Survey Hunt',
     issuer: 'Shri Ramswaroop Memorial College of Engineering & Management, Lucknow',
